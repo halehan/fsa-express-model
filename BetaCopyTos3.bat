@@ -1,0 +1,1 @@
+aws s3 cp C:\Users\18502\aws\CodeCommit\fsa-model-aws\dist\ s3://fsa-builds/beta/model --recursive --profile=admin-halehan
